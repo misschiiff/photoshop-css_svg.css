@@ -1,0 +1,9 @@
+.Background_copy {
+  background-image: url("Background copy.png");
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 2560px;
+  height: 1707px;
+  z-index: 2;
+}
